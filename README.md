@@ -1,3 +1,3 @@
 #SPRING STATE MACHINE
 
-Working example of SPRING STATE MACHINE(Under Development)
+Working example of SPRING STATE MACHINE
